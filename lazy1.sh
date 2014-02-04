@@ -4,3 +4,4 @@ sudo chmod +x /etc/init.d/openvpn
 sudo chown root:root /etc/init.d/openvpn
 sudo update-rc.d openvpn default
 sudo /etc/init.d/openvpn start
+echo 2-5-2014
